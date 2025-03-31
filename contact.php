@@ -78,7 +78,7 @@
                 <div class="col-lg-8 mx-auto">
                     <div class="card shadow-sm">
                         <div class="card-body p-5">
-                            <form id="contactForm" class="needs-validation" action="logic/submit_inquiry.php" method="POST" novalidate>
+                            <form id="contactForm" class="needs-validation" action="logice/submit_inquiry.php" method="POST" novalidate>
                                 <div class="row g-3">
                                     <div class="col-md-6">
                                         <label for="name" class="form-label">Name</label>
